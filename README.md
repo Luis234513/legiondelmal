@@ -1,3 +1,13 @@
+
+![Estático](https://img.shields.io/badge/Legion--del--mal-blue)
+
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/Luis234513/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/Luis234513/legiondelmal)
+![Issues](https://img.shields.io/github/issues/Luis234513/legiondelmal)
+![Último commit](https://img.shields.io/github/last-commit/Luis234513/legiondelmal)
+![Licencia](https://img.shields.io/github/license/Luis234513/legiondelmal)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
