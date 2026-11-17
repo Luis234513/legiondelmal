@@ -1,5 +1,5 @@
 
-![Estático](https://img.shields.io/badge/Legion--del--mal-blue)
+![Estático](https://img.shields.io/badge/Legion--del--Mal-blue)
 
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Luis234513/legion-del-mal/ci.yml)
